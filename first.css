@@ -1,0 +1,19 @@
+*{font-family: 'Pacifico', cursive;}
+body{background-color: rgb(189, 88, 22)};
+
+.nav-item{font-family: 'Pacifico', cursive;}
+.navbar{background-color: bisque;
+}
+.container{display:flex;
+margin-top: 30px;
+padding: 30px;
+background-color: bisque;
+font-family: 'Pacifico', cursive;}
+.card{padding: 20px;
+margin: 20px;}
+.head{font-family: 'Pacifico', cursive;
+color: black;
+text-align: center;
+margin-top: 20px;}
+.navbar-brand{font-family: 'Pushster', cursive;}
+.foot{text-align: center;}
